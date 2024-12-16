@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Aryan and I'm a Pre-Final Year ECE student from  MNNIT....</h2>
+<h2 align="left">Hi 👋! My name is Aryan and I'm a Final Year ECE student from  MNNIT....</h2>
 
 ###
 
